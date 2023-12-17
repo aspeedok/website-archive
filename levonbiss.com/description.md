@@ -22,6 +22,11 @@ Accessibility = 67%
 * Время отклика сети составляет 740 мс  
 * Заголовки кэширования HTTP недоступны  
 ## Cohesion
+Cohesion = 100%   
+
+* Найдены локальные CSS
+* Найдены локальные скрипты
+* Найдены локальные изображения
 ## Metadata
 ## Standards Compliance
 ## Overall Rating
