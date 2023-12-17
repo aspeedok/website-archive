@@ -31,8 +31,8 @@ Cohesion = 0%
 ## Metadata  
 Metadata = 100%  
   
-«Проблемы», повлиявшие на значение показателя Metadata:    
-* Заголовки кэширования HTTP недоступны  
+* Корректно определенны HTTP-заголовки
+* Найден метатег с описанием найден  
 ## Standards Compliance
 Standards Compliance = 68%  
 
