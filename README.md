@@ -29,11 +29,14 @@ ArchiveReady – инструмент для оценки веб-сайтов н
 * Accessibility  
 * Cohesion  
 * Metadata  
-* Standards Compliance  
-[Ссылка на Archive Ready](https://archiveready.com/)   
+* Standards Compliance
+
+[Ссылка на Archive Ready](https://archiveready.com/)  
+  
 [Узнать больше о метриках](http://purl.pt/24107/1/iPres2013_PDF/CLEAR%20a%20credible%20method%20to%20evaluate%20website%20archivability.pdf)
 ### Metawarc
 Metawarc - это инструмент командной строки для обработки файлов WARC. Его цель - сделать взаимодействие с файлами внутри архивов WARC настолько простым, насколько это возможно. Она предоставляет простую команду metawarc, которая позволяет извлекать метаданные из изображений, документов и других файлов в архивах WARC.  
+  
 [Ссылка на github metawarc](https://github.com/datacoon/metawarc)
 ## Лицензия
 Creative Commons BY 4.0  
@@ -43,7 +46,7 @@ Creative Commons BY 4.0
 * Адаптировать материал — видоизменять и создавать новое, опираясь на этот материал в любых целях, включая коммерческие  
 
 ## Об авторе
-Аспидова Алена Вячеславовна, студент 2 курса НИУ ВШЭ, группа МЦМГН221   
+Аспидова Алена Вячеславовна, студент 2 курса НИУ ВШЭ, группа МЦМГН221  
 
 
 
