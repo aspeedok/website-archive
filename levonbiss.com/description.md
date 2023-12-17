@@ -6,7 +6,7 @@
 
 # Archive Ready
 
-| Column 1 | Column 2 | 
+|Метрика|Значение| 
 |----------|----------|
 |Accessibility|67%| 
 |Cohesion|100%| 
