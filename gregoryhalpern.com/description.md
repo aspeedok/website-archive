@@ -28,7 +28,6 @@ Cohesion = 100%
 ## Metadata  
 Metadata = 100%  
      
-* Присутствуют заголовки кэширования HTTP  
 * Корректно определенны HTTP-заголовки  
 ## Standards Compliance
 Standards Compliance = 100%  
