@@ -28,7 +28,8 @@ Cohesion = 100%
 ## Metadata  
 Metadata = 100%  
      
-* Корректно определенны HTTP-заголовки  
+* Корректно определенны HTTP-заголовки
+* Найден метатег с описанием найден  
 ## Standards Compliance
 Standards Compliance = 100%  
 
